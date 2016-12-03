@@ -2,30 +2,36 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
+   
+   <asp:Image ID="banner" runat="server" src="Images/princess_banner.jpg" Height="250px" Width="100%"/>
+                    
     <div class="jumbotron">
-        <h1>ASP.NET</h1>
-        <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
-        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+        
+        <h1>WELCOME TO THE PRINCESS CRUISES</h1>
+        <p>
+            <asp:Image ID="home_banner" runat="server" src="Images/home_picture.jpg" Width="100%"/>
+        </p>
+        <p class="lead">A different kind of cruise. The world's most beautiful voyage.</p>
+        <p><a runat="server" href="~/Booking" class="btn btn-primary btn-lg">Booking Now! &raquo;</a></p>
     </div>
 
     <div class="row">
         <div class="col-md-4">
-            <h2>Getting started</h2>
+            <h2>Booking Now!</h2>
             <p>
-                ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
-            A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
+                Booking Now With Us and Get Your Room Reserves for Your Enjoyable Voyage! No One Ever Dissapointed With Our Services!
             </p>
             <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
+                <a class="btn btn-default" runat="server" href="~/Booking">Learn more &raquo;</a>
             </p>
         </div>
         <div class="col-md-4">
-            <h2>Get more libraries</h2>
+            <h2>Find Us on Facebook!</h2>
             <p>
-                NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.
+                Welcome to the Princess Cruises Facebook page! Here we like to share updates about our ships, destinations, passengers and crew. Share your Princess experiences too!
             </p>
             <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301949">Learn more &raquo;</a>
+                <a class="btn btn-default" onclick=" window.open('https://www.facebook.com/PrincessCruises','_blank')">Learn more &raquo;</a>
             </p>
         </div>
         <div class="col-md-4">

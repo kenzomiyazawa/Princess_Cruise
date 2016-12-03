@@ -10,7 +10,7 @@
 namespace Princess_Cruise {
     
     
-    public partial class Contact {
+    public partial class About {
         
         /// <summary>
         /// banner control.

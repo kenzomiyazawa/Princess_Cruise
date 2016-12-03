@@ -10,7 +10,7 @@
 namespace Princess_Cruise {
     
     
-    public partial class Contact {
+    public partial class Gallery {
         
         /// <summary>
         /// banner control.
@@ -20,5 +20,14 @@ namespace Princess_Cruise {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Image banner;
+        
+        /// <summary>
+        /// Image1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Image Image1;
     }
 }
