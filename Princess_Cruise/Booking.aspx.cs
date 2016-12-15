@@ -13,5 +13,20 @@ namespace Princess_Cruise
         {
 
         }
+
+        protected void From_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void Destination_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        protected void Date_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

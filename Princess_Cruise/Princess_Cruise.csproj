@@ -183,6 +183,16 @@
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Gallery.aspx" />
     <Content Include="Images\home_picture.jpg" />
+    <Content Include="Images\picture.jpg" />
+    <Content Include="Images\picture0.jpg" />
+    <Content Include="Images\picture1.jpg" />
+    <Content Include="Images\picture2.jpg" />
+    <Content Include="Images\picture3.jpg" />
+    <Content Include="Images\picture4.jpg" />
+    <Content Include="Images\picture5.jpg" />
+    <Content Include="Images\picture6.jpg" />
+    <Content Include="Images\picture7.jpg" />
+    <Content Include="Images\picture8.jpg" />
     <Content Include="Images\princess_banner.jpg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />

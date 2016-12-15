@@ -40,13 +40,13 @@ namespace Princess_Cruise {
         protected global::System.Web.UI.WebControls.TextBox Passport;
         
         /// <summary>
-        /// Contact control.
+        /// Email control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox Contact;
+        protected global::System.Web.UI.WebControls.TextBox Email;
         
         /// <summary>
         /// Nationality control.
@@ -67,6 +67,15 @@ namespace Princess_Cruise {
         protected global::System.Web.UI.WebControls.DropDownList From;
         
         /// <summary>
+        /// Destination_Connect control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.SqlDataSource Destination_Connect;
+        
+        /// <summary>
         /// Destination control.
         /// </summary>
         /// <remarks>
@@ -83,5 +92,14 @@ namespace Princess_Cruise {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.DropDownList Date;
+        
+        /// <summary>
+        /// Date_Connect control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.SqlDataSource Date_Connect;
     }
 }

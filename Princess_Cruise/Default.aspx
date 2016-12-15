@@ -28,19 +28,19 @@
         <div class="col-md-4">
             <h2>Find Us on Facebook!</h2>
             <p>
-                Welcome to the Princess Cruises Facebook page! Here we like to share updates about our ships, destinations, passengers and crew. Share your Princess experiences too!
+                Welcome to the Princess Cruises Facebook page! Here we like to share updates about our ships, destinations, passengers and crew. Share your Princess experiences!
             </p>
             <p>
                 <a class="btn btn-default" onclick=" window.open('https://www.facebook.com/PrincessCruises','_blank')">Learn more &raquo;</a>
             </p>
         </div>
         <div class="col-md-4">
-            <h2>Web Hosting</h2>
+            <h2>Join Us</h2>
             <p>
-                You can easily find a web hosting company that offers the right mix of features and price for your applications.
+                Be one of us by applying job in our company and be part of our cruises family. We are welcoming you in any profession available. Apply Now!
             </p>
             <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
+                <a class="btn btn-default" onclick=" window.open('https://www.linkedin.com/company/princess-cruises','_blank')">Learn more &raquo;</a>
             </p>
         </div>
     </div>
