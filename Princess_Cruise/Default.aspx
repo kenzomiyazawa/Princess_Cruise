@@ -7,7 +7,7 @@
                     
     <div class="jumbotron">
         
-        <h1>WELCOME TO THE PRINCESS CRUISES</h1>
+        <h1>WELCOME TO THE PRINCESS CRUISES SOUTH EAST ASIA SITE</h1>
         <p>
             <asp:Image ID="home_banner" runat="server" src="Images/home_picture.jpg" Width="100%"/>
         </p>

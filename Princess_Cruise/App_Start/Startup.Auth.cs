@@ -55,9 +55,9 @@ namespace Princess_Cruise
             //   consumerKey: "",
             //   consumerSecret: "");
 
-            //app.UseFacebookAuthentication(
-            //   appId: "",
-            //   appSecret: "");
+            app.UseFacebookAuthentication(
+              appId: "1578606242156661",
+             appSecret: "ff21bd5f2387ecad122626852f48792f");
 
             //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             //{
